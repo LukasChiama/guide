@@ -73,6 +73,8 @@ Find javascript libraries at <a href='http://jster.net' target='_blank' rel='nof
     
 *   <a href='https://www.sublimetext.com/' target='_blank' rel='nofollow'>Sublime Text</a>
 
+    Sublime Text includes support for multiple selection editing, split editing, customizable key-bindings and menus, auto-complete and so on. It was developed by Jon Skinner and Will Bond.
+
 ## Blogs
 
 *   <a href='http://perfectionkills.com' target='_blank' rel='nofollow'>Perfection Kills</a>
